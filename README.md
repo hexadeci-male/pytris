@@ -1,5 +1,7 @@
 # READ ME (Or don't...see what I care.)
 
+![alt text](game_shot.jpg)
+
 This is a Python-based (using the 'Pygame' module) version of Tetris (unofficial, of course). Code by hexadeci-male and Tetris by Alexey Pajitnov. Other things made by other groups and people that I couldn't be bothered to blah-blah-blah bleeeeeehhhhhhh............
 
 # REQUIREMENTS:
@@ -26,4 +28,4 @@ If someone wants to make a pyinstaller/py2app mac executable of this game (icons
 
 # NONSENSE:
 
-This was more a coding exercise rather than a full-fledged game dev project. No copyright infringement intended - just needed some assets from the interwebz. I have no idea who made what, except for my code.
+This was more a coding exercise rather than a full-fledged game dev project. No copyright infringement intended - just needed some assets from the interwebz. Apart from my code, I have no real idea who made what.
