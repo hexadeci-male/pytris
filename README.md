@@ -21,13 +21,21 @@ You can replace the sounds/graphics files with your own if you want...just make 
 # SETTINGS:
 
 **Window:** Change the window resolution to be bigger or smaller (500x500,600x600,800x800)
+
 **Sound:** Turn sound on or off (really just changing the volume)
+
 **Music:** Turn music on or off (really just changing the volume)
+
 **Difficulty:** All it actually does is change the grid size (20x40,10x20,5x10) - crazy mode is fun!
+
 **Style:** Ever wanted to see Tetris blocks as balls? Now you can!
+
 **Colors:** Change the palette of the blocks (Standard, Odd, Black & White, NES Tetris - 2 color sets plus white that changes every level!)
+
 **Mirrored:** Swap the game board and control area so they are on opposite sides of the screen
+
 **Guides:** Show or hide the helpful ghost pieces
+
 **Sandwich:** LOL
 
 # SOURCE CODE:
