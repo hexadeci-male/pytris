@@ -2,7 +2,7 @@
 
 ![alt text](game_shot.jpg)
 
-This is a Python-based (using the 'Pygame' module) version of Tetris (unofficial, of course). Code by hexadeci-male and Tetris by Alexey Pajitnov. Other things made by other groups and people that I couldn't be bothered to blah-blah-blah bleeeeeehhhhhhh............
+This is a Python-based (using the Pygame 1.9.6 module) version of Tetris (unofficial, of course). Code by hexadeci-male and Tetris by Alexey Pajitnov. Other things made by other groups and people that I couldn't be bothered to blah-blah-blah bleeeeeehhhhhhh............
 
 # REQUIREMENTS:
 
@@ -17,6 +17,18 @@ The game automatically creates/saves your game settings and highscores to some t
 Don't mess with the asset folder, unless you know what you are doing. The game won't load without the asset folder and it's proper contents.
 
 You can replace the sounds/graphics files with your own if you want...just make sure it's the same name and file type.
+
+# SETTINGS:
+
+**Window:** Change the window resolution to be bigger or smaller (500x500,600x600,800x800)
+**Sound:** Turn sound on or off (really just changing the volume)
+**Music:** Turn music on or off (really just changing the volume)
+**Difficulty:** All it actually does is change the grid size (20x40,10x20,5x10) - crazy mode is fun!
+**Style:** Ever wanted to see Tetris blocks as balls? Now you can!
+**Colors:** Change the palette of the blocks (Standard, Odd, Black & White, NES Tetris - 2 color sets plus white that changes every level!)
+**Mirrored:** Swap the game board and control area so they are on opposite sides of the screen
+**Guides:** Show or hide the helpful ghost pieces
+**Sandwich:** LOL
 
 # SOURCE CODE:
 
